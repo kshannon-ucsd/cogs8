@@ -1,8 +1,8 @@
 # ucsd-cogs8
 Class Website for UCSD's Cogs 8 Hands on Computing 
 
-## Up and Running (mac os)
-### Dev Environment initial set up
+## Up and Running
+### Dev Environment initial set up (mac os)
 1. Install chruby and ruby-install with Homebrew (install ruby 3.1.2)
 2. cd to project dir and chruby for ruby-3.1.2 #this should be default from the `.ruby-version` file going forward.
 3. `bundle init` to create gemfile
