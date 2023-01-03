@@ -1,0 +1,51 @@
+# Welcome section
+quarter: Spring 2023
+building: "TBD"
+timings: TU & TH TBD
+discord_link: TBD
+gradescope_link: TBD
+gradescope_entry_code: TBD
+cogsadvising: cogsadvising@ucsd.edu
+
+instructor:
+  name: Kyle Shannon
+  email: kshannon@ucsd.edu
+  type: Instructor
+  office_hours:
+    - day: Thu
+      time: 330-430PM
+      location: CSB 255
+      zoom_link: https://ucsd.zoom.us/j/4288626123
+      zoom_pw:
+
+teaching_assistants:
+  - name: TBD
+    email: TBD
+    type: TA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        zoom_link:
+        zoom_pw:
+
+instructional_assistants:
+  - name: TBD
+    email: TBD
+    type: IA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        zoom_link:
+        zoom_pw:
+
+
+discussion_sections:
+  - section: A01
+    day: TBD
+    time: TBD
+    location: TBD
+    ta: TA TBD
+    ia: IAs TBD
+    materials:
