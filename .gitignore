@@ -3,7 +3,8 @@ misc
 dev-docs/
 class-demos/
 
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
+/vendor
