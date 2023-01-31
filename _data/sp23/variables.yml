@@ -1,7 +1,7 @@
 # Welcome section
 quarter: Spring 2023
-building: "TBD"
-timings: TU & TH TBD
+building: HSS 1346
+timings: TUESDAY 9:30AM - 12:20PM
 discord_link: TBD
 gradescope_link: TBD
 gradescope_entry_code: TBD
@@ -12,10 +12,10 @@ instructor:
   email: kshannon@ucsd.edu
   type: Instructor
   office_hours:
-    - day: Thu
-      time: 330-430PM
-      location: CSB 255
-      zoom_link: https://ucsd.zoom.us/j/4288626123
+    - day: Tue
+      time: 1:30PM - 2:30PM
+      location: HSS 1346
+      zoom_link:
       zoom_pw:
 
 teaching_assistants:
@@ -25,7 +25,7 @@ teaching_assistants:
     office_hours:
       - day: TBD
         time: TBD
-        location: TBD
+        location: HSS 1346
         zoom_link:
         zoom_pw:
 
@@ -43,9 +43,9 @@ instructional_assistants:
 
 discussion_sections:
   - section: A01
-    day: TBD
-    time: TBD
-    location: TBD
+    day: Thur
+    time: 10:00AM - 10:50AM
+    location: HSS 1346
     ta: TA TBD
     ia: IAs TBD
     materials:
