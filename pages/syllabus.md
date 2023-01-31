@@ -34,8 +34,8 @@ Micropython along with the BBC Microbit processor is a perfect platform to quick
 |                                               | % of Total Grade |   100 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
 | 7 Programming Modules (drop lowest)           |               60 |       60 (10 each) |
-| 1 Final Group Project + Report                |               15 |                 15 |
-| 5 Reading Reflections                         |               25 |        25 (5 each) |
+| 1 Final Group Project + Report                |               20 |                 20 |
+| 4 Reading Reflections                         |               20 |        20 (5 each) |
 | Bonus                                         |              N/A |        2 bonus pts |
 
 - **Final exam date**: No final exam, only a final group project presentation in week 10 and a report due during finals week.
@@ -85,7 +85,7 @@ Modules will focus on applying computation skills to build robotic based agents 
 Your final group project will involve working with your classmates in a group of 3-5 students. You will have 2-3 weeks to work on robot(s) that use several types of senses to perform some complex activity in the real world. You will demonstrate your robot to the class in the final class meeting. There will be a final group report due finals week. You will discuss what you learned, and relate your invention back to the readings you have done and everything we have learned in class. This report should be about 3-6 pages. 
 
 ### Reading Reflections
-There will be 5 reading reflections with two readings per assignment. Each reading reflection will ask you to summarize the high level concepts in each reading and relate them to what we are learning in class. Each reflection should be no more than one - two pages.
+There will be 54 reading reflections with two readings per assignment. Each reading reflection will ask you to summarize the high level concepts in each reading and relate them to what we are learning in class. Each reflection should be no more than one - two pages.
 
 ### Planned Readings
 Readings will cover many of the broad topics found within Data Science, both from an academic and industry perspective.
@@ -99,8 +99,7 @@ TODO:
 - R3b: 
 - R4a: 
 - R4b: 
-- R5a: 
-- R5b: 
+
 
 
 ## Other Good Stuff [DONE]
