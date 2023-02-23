@@ -2,7 +2,7 @@
 quarter: Spring 2023
 building: HSS 1346
 timings: TUESDAY 9:30AM - 12:20PM
-discord_link: TBD
+discord_link: https://discord.gg/QutK5cFb
 gradescope_link: TBD
 gradescope_entry_code: TBD
 cogsadvising: cogsadvising@ucsd.edu
@@ -13,14 +13,14 @@ instructor:
   type: Instructor
   office_hours:
     - day: Tue
-      time: 1:30PM - 2:30PM
+      time: 3:30PM - 4:30PM
       location: HSS 1346
       zoom_link:
       zoom_pw:
 
 teaching_assistants:
-  - name: TBD
-    email: TBD
+  - name: Vineeth Chelur
+    email: vrchelur@ucsd.edu
     type: TA
     office_hours:
       - day: TBD
@@ -46,6 +46,6 @@ discussion_sections:
     day: Thur
     time: 10:00AM - 10:50AM
     location: HSS 1346
-    ta: TA TBD
-    ia: IAs TBD
+    ta: Vineeth
+    ia: No IA
     materials:
