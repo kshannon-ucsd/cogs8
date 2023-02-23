@@ -62,9 +62,9 @@ exclude:
 
 # Aux link for the upper right navigation
 aux_links:
-  "Template Repository": "https://www.github.com/kshannon/ucsd-cogs8"
-  # "UCSD Podcast": "https://podcast.ucsd.edu/" TODO: add new link for microbit web editor
-  # "Gradescope": "https://www.gradescope.com/" TODO: add new link for microbit web editor
+  # "Template Repository": "https://www.github.com/kshannon/ucsd-cogs8"
+  "Gradescope": "https://www.gradescope.com/"
+  "Microbit Editor": "https://python.microbit.org/v/3"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
