@@ -19,8 +19,8 @@ permalink: /syllabus/
 ## Course Materials
 - There is **no** required textbook
 - All course materials are provided through **this website**
-- Reading reflections are submitted through _______ TODO:
-- In-class module activities are submitted through _______ TODO:
+- Reading reflections are submitted through **Gradescope**
+- In-class activities are submitted through **Gradescope**
 
 ## Course Objective
 
