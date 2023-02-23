@@ -33,13 +33,13 @@ Micropython along with the BBC Microbit processor is a perfect platform to quick
 
 |                                               | % of Total Grade |   100 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 7 Programming Modules (drop lowest)           |               60 |       60 (10 each) |
+| 7 Programming Activities (drop lowest)        |               60 |       60 (10 each) |
 | 1 Final Group Project + Report                |               20 |                 20 |
 | 4 Reading Reflections                         |               20 |        20 (5 each) |
 | Bonus                                         |              N/A |        2 bonus pts |
 
 - **Final exam date**: No final exam, only a final group project presentation in week 10 and a report due during finals week.
-- Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we have included 5 bonus points.
+- Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we have included 2 bonus points.
 
 
 
@@ -48,18 +48,18 @@ The regrade policy is here to protect students from serious issues in grading, n
 
 **If you think a grading error has occurred please follow these steps:**
 - You have 72 hours to request a regrade
-- Initiate a regrade request on _________ TODO:
+- Initiate a regrade request by contacting your TA
 
 ### Lecture Attendance
 The purpose of Cogs 8 is to get hands-on with computing. Therefore class attendance is mandatory and a part of your grade. I know emergencies and personal issues do come up. You will be allowed to miss one class without any penalty. For further logistic issues, you will need to talk 1:1 with myself. Due to the dynamic nature of this class I will not be podcasting, therefore it is essential to make the time and effort to show up to our schedule classroom activities.
 
 ### Section Attendance
-Section attendance is not mandatory, however, section is a perfect time to get additional help with programming problems, learn more about how to use python, or just have extra time to work on your lab modules.
+Section attendance is not mandatory, however, section is a perfect time to get additional help with programming problems, learn more about how to use python, or just have extra time to work on your lab Activities.
 
 ### Office Hours
-Office Hours will be held in the same classroom, to allow students more time to come in and work on their modules and projects, as well to interact 1:1 with course staff.
+Office Hours will be held in the same classroom, to allow students more time to come in and work on their Activities and projects, as well to interact 1:1 with course staff.
 
-## Course Topics, Modules & Readings [TODO:]
+## Course Topics, Activities & Readings
 
 ### Topics
 This class covers a wide range of topics. This is by design and meant to expose you to many topics within Cognitive Science, as well as getting your hands messy actually writing some code and making real world 'things' like robots! Some of the topics we will cover indlude:
@@ -74,18 +74,18 @@ This class covers a wide range of topics. This is by design and meant to expose 
 - Data processing
 
 
-### Modules
-Modules will focus on applying computation skills to build robotic based agents that will sense and act in the real world 
+### Activities
+Activities will focus on applying computation skills to build robotic based agents that will sense and act in the real world 
 
 - One intro setting up your environment module that is ungraded, but will help you to get the hang of how the class will work.
-- Seven in class modules where you will work individually with your own microprocessor. Each module should be completed within class, however there will be extra time during discussion section and during office hours to continue working on your modules. 
+- Seven in class Activities where you will work individually with your own microprocessor. Each module should be completed within class, however there will be extra time during discussion section and during office hours to continue working on your Activities. 
 - Each module will have a series of questions and milestones that you will need to hit to gain full credit.
 
 ### Final Group Project
 Your final group project will involve working with your classmates in a group of 3-5 students. You will have 2-3 weeks to work on robot(s) that use several types of senses to perform some complex activity in the real world. You will demonstrate your robot to the class in the final class meeting. There will be a final group report due finals week. You will discuss what you learned, and relate your invention back to the readings you have done and everything we have learned in class. This report should be about 3-6 pages. 
 
 ### Reading Reflections
-There will be 54 reading reflections with two readings per assignment. Each reading reflection will ask you to summarize the high level concepts in each reading and relate them to what we are learning in class. Each reflection should be no more than one - two pages.
+There will be 4 reading reflections with two readings per assignment. Each reading reflection will ask you to summarize the high level concepts in each reading and relate them to what we are learning in class. Each reflection should be no more than one - two pages.
 
 ### Planned Readings
 Readings will cover many of the broad topics found within Data Science, both from an academic and industry perspective.
@@ -102,7 +102,7 @@ TODO:
 
 
 
-## Other Good Stuff [DONE]
+## Other Good Stuff
 
 ### Teamwork Expectations
 Your team will be working on the final together. We expect all students to, more or less, be equal contributors the final project. No one person should be doing a project, they are meant to be collaborative and give you experience working with people you probably do not know. One successful approach is to first agree on a communication tool/protocol and a schedule. Next, discuss each person’s strengths and divide up responsibilities. Develop a schedule for completing tasks, who is responsible and a backup person in case an emergency situation occurs. Finally, check in regularly to ensure progress is being made and leave sometime to check and proof read each other's work. Especially because some students in your group may be remote for part of the class.

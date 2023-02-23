@@ -107,7 +107,7 @@ Week one I try to take as many students from the **waitlist** as I can, please e
               {% elsif row.label == "ASSG" %} <span class="md-cal-badge md-cal-badge-green"> {{ row.label }} </span>
               {% elsif row.label == "EXAM" %} <span class="md-cal-badge md-cal-badge-gray"> {{ row.label }} </span>
               {% elsif row.label == "QUIZ" %} <span class="md-cal-badge md-cal-badge-green"> {{ row.label }} </span>
-              {% elsif row.label == "EXTR" %} <span class="md-cal-badge md-cal-badge-yellow"> {{ row.label }} </span>
+              {% elsif row.label == "DISC" %} <span class="md-cal-badge md-cal-badge-yellow"> {{ row.label }} </span>
               {% else %}
                 {% if row.label %} <span class="md-cal-badge md-cal-badge-black"> {{ row.label }} </span>
                 {% endif %}
