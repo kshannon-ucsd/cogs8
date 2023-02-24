@@ -42,7 +42,7 @@ todo
 todo
 
 
-## Additional Helpful Resources
+## Additional Help
 
 - How to Read an Academic Paper <a href="https://www.kmshannon.com/posts/2018-07-21-reading-research-papers/" target="_blank" rel="noopener">view &#x2197;</a>
   - This is a guide I wrote a number years ago on how to approach reading and digesting academic articles.
