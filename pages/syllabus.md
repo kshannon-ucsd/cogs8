@@ -33,7 +33,7 @@ Micropython along with the BBC Microbit processor is a perfect platform to quick
 
 |                                               | % of Total Grade |   100 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 7 Programming Activities (drop lowest)        |               60 |       60 (10 each) |
+| 5 Programming Activities (drop lowest)        |               60 |       60 (15 each) |
 | 1 Final Group Project + Report                |               20 |                 20 |
 | 4 Reading Reflections                         |               20 |        20 (5 each) |
 | Bonus                                         |              N/A |        2 bonus pts |
