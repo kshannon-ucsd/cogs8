@@ -12,8 +12,8 @@ instructor:
   email: kshannon@ucsd.edu
   type: Instructor
   office_hours:
-    - day: Tue
-      time: 3:30PM - 4:30PM
+    - day: Thu
+      time: 12:30PM - 1:30PM
       location: HSS 1346
       zoom_link:
       zoom_pw:
@@ -24,7 +24,7 @@ teaching_assistants:
     type: TA
     office_hours:
       - day: Tue
-        time: 11:00AM - 11:50AM
+        time: 11:00AM - 12:00PM
         location: HSS 1346
         zoom_link: https://ucsd.zoom.us/j/3037643310
         zoom_pw:
@@ -33,7 +33,7 @@ instructional_assistants:
 
 discussion_sections:
   - section: A01
-    day: Thur
+    day: Tue
     time: 10:00AM - 10:50AM
     location: HSS 1346
     ta: Vineeth
