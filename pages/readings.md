@@ -13,7 +13,7 @@ Readings come from a wide range of topics, papers, and articles to reflect the d
 ## Instructions
 Each reading assignment will be coupled with a Reading Reflection. Use the link below to open the template and under `file` click `make a copy` to make a copy of the template for yourself in your drive. You will not be able to edit my template. Use the same template for each of the 4 reading reflections. Make sure to follow the instruction in the template and submit your reflection to Gradescope by the due date. 
 
-**Reading Reflections Template:** <a href="https://docs.google.com/document/d/1mEKo2E7-SWvIpQ-G7tBJWOm_RDY5s9Q5vyCBZqPAD80/edit?usp=sharing" target="_blank" rel="noopener">(open link)</a>
+<a href="https://docs.google.com/document/d/1mEKo2E7-SWvIpQ-G7tBJWOm_RDY5s9Q5vyCBZqPAD80/edit?usp=sharing" target="_blank" rel="noopener">**Reading Reflections Template**</a>
 
 
 {: .note .fs-2 }
@@ -23,26 +23,26 @@ Make sure to submit your reading reflections through Gradescope! Do not email or
 
 ## Reading 1
 
-- R1a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- R1b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1a.pdf" target="_blank" rel="noopener">Embodied cognition is not what you think it is &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1b.pdf" target="_blank" rel="noopener">Embodied cognition &#x2197;</a>
 
 
 ## Reading 2
 
-- R2a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- R2b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2a.pdf" target="_blank" rel="noopener">Meat Machines &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2b.pdf" target="_blank" rel="noopener">Is the Brain's Mind a Computer Program? &#x2197;</a>
 
 
 ## Reading 3
 
-- R3a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- R3b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3a.pdf" target="_blank" rel="noopener">Tools for the body (schema) &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3b.pdf" target="_blank" rel="noopener">Human-Machine Autonomies &#x2197;</a>
 
 
 ## Reading 4
 
-- R4a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- R4b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4a.pdf" target="_blank" rel="noopener">Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research &#x2197;</a>
+- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4b.pdf" target="_blank" rel="noopener">Designing Emergent Behaviors: From Local Interactions to Collective Intelligence &#x2197;</a>
 
 
 
