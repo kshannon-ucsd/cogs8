@@ -1,4 +1,4 @@
----
+**---
 layout: default
 title: "Syllabus"
 nav_order: 3
@@ -21,27 +21,25 @@ permalink: /syllabus/
 - All course materials are provided through **this website**
 - Reading reflections are submitted through **Gradescope**
 - In-class activities are submitted through **Gradescope**
+- Final group project is submitted through **Gradescope**
 
 ## Course Objective
+To explore the complex and loopy nature of sensorimotor systems in Cognitive Science. Using python and small microprocessors, we will build robotic systems with sensory systems to complete complex tasks. No prior programming experience is required, this course will teach you basic programming skills, build fundamental computational skills and thinking, as well as introduce you to some fundamental concepts within Cognitive Science, specifically embodied, embedded, and distributed cognition.
 
-To explore thr complex and loopy nature of sensorimotor systems in Cognitive Science. Using python and small microprocessors, we will build robotic systems with sensory systems to complete complex tasks. No prior programming experience is required, this course will teach you basic programming skills, build fundamental computational skills and thinking, as well as introduce you to some fundamental concepts within Cognitive Science. 
+Micropython along with the BBC Microbit processor is a perfect platform to quickly get your hands dirty working with actual systems. The skills you develop in this class will provide you with a good bedrock to continue building computation skills. I want to share with all of you my passion for working with data, hacking away with python, and the fascinating world of Cognitive Science!
 
-Micropython along with the BBC Microbit processor is a perfect platform to quickly get your hands dirty working with actual systems. The skills you develop in this class will provide you with a good bedrock to continue building computation skills. I want to share with all of you my passion for working with data, hacking away with python, and the fascinating world of Cognitive Science! 
-
-## Grading & Attendance [DONE]
+## Grading & Attendance
 ### Grading
 
 |                                               | % of Total Grade |   100 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 5 Programming Activities (drop lowest)        |               60 |       60 (15 each) |
-| 1 Final Group Project + Report                |               20 |                 20 |
+| 5 Programming Activities                      |               50 |       50 (10 each) |
+| 1 Final Group Project + Report                |               30 |                 30 |
 | 4 Reading Reflections                         |               20 |        20 (5 each) |
 | Bonus                                         |              N/A |        2 bonus pts |
 
 - **Final exam date**: No final exam, only a final group project presentation in week 10 and a report due during finals week.
 - Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we have included 2 bonus points.
-
-
 
 ### Regrade Policy
 The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. A grader may incorrectly take off a point, but they are as likely to give students a point. In our experience less than 3% of the time a regrade results in a change.
@@ -51,54 +49,56 @@ The regrade policy is here to protect students from serious issues in grading, n
 - Initiate a regrade request by contacting your TA
 
 ### Lecture Attendance
-The purpose of Cogs 8 is to get hands-on with computing. Therefore class attendance is mandatory and a part of your grade. I know emergencies and personal issues do come up. You will be allowed to miss one class without any penalty. For further logistic issues, you will need to talk 1:1 with myself. Due to the dynamic nature of this class I will not be podcasting, therefore it is essential to make the time and effort to show up to our schedule classroom activities.
+The purpose of Cogs 8 is to get hands-on with computing. Therefore class discussion section is mandatory and a part of your grade. I know emergencies and personal issues do come up. You will be allowed to miss one class without any penalty. For further logistic issues, you will need to talk 1:1 with myself. Due to the dynamic nature of this class I will not be podcasting, therefore it is essential to make the time and effort to show up to our scheduled classroom activities.
 
 ### Section Attendance
-Section attendance is not mandatory, however, section is a perfect time to get additional help with programming problems, learn more about how to use python, or just have extra time to work on your lab Activities.
+Section attendance is mandatory. You will be allowed to miss one discussion section as well. Discussion section is a perfect time to get additional help with programming, learn more about how to use python, or just have extra time to work on your in-class activities.
 
 ### Office Hours
-Office Hours will be held in the same classroom, to allow students more time to come in and work on their Activities and projects, as well to interact 1:1 with course staff.
+Office Hours will be held in the same classroom, to allow students more time to come in and work on their activities and projects, as well to interact 1:1 with course staff.
 
 ## Course Topics, Activities & Readings
 
 ### Topics
-This class covers a wide range of topics. This is by design and meant to expose you to many topics within Cognitive Science, as well as getting your hands messy actually writing some code and making real world 'things' like robots! Some of the topics we will cover indlude:
+This class covers a wide range of topics. This is by design and meant to expose you to many topics within Cognitive Science, as well as getting your hands messy actually writing some code and making real world 'things' like robots! Some of the topics we will cover include:
 
 - Python programming language (specifically micropython)
 - Robotics
 - Embodied cognition
 - Distributed cognition
 - Embedded cognition
+- Computationalism
 - Microprocessors
-- Human senses (e.g. sight, sound, and so on)
+- Sensorimotor systems
 - Data processing
 
 
 ### Activities
-Activities will focus on applying computation skills to build robotic based agents that will sense and act in the real world 
+Activities will focus on applying computational skills to build robotic based agents that will sense and act in the real world. You do not need to have any prior programming experience. We will teach you how to perform basic programming, as well as provide you a majority of the code you will need to get started with activities. The coding should not be a source of a terrible amount of anxiety. But you might sweat once of twice! :)
 
-- One intro setting up your environment module that is ungraded, but will help you to get the hang of how the class will work.
-- Seven in class Activities where you will work individually with your own microprocessor. Each module should be completed within class, however there will be extra time during discussion section and during office hours to continue working on your Activities. 
-- Each module will have a series of questions and milestones that you will need to hit to gain full credit.
+- We will walk you through an in-class demo on how to get everything set up to begin working on your robot.
+- Several in-class activities where you will work both, individually and with your team to work with your processor. Most activities will be completed within class, however there will be extra time during discussion section and during office hours to continue working on your Activities. You will be able to do some work at home as well.
+- Each module will have a series of questions and milestones that you will need to reach to get full credit.
+
+Remember, this is NOT a programming class. We will use programming to learn about cognitive science. But the goal is to not overload you with programming in order to get a good grade.
 
 ### Final Group Project
-Your final group project will involve working with your classmates in a group of 3-5 students. You will have 2-3 weeks to work on robot(s) that use several types of senses to perform some complex activity in the real world. You will demonstrate your robot to the class in the final class meeting. There will be a final group report due finals week. You will discuss what you learned, and relate your invention back to the readings you have done and everything we have learned in class. This report should be about 3-6 pages. 
+Your final group project will involve working with your classmates in a group of 3-5 students. You will have 2-3 weeks to work on your project, which will perform some complex activity in the real world, in a distributed manner, with other robots. You will demonstrate your robot to the class in the final class meeting. There will be a final group report due during finals week. You will discuss what you learned, and relate your invention back to the readings you have finished. This report should be about 3-6 pages.
 
 ### Reading Reflections
-There will be 4 reading reflections with two readings per assignment. Each reading reflection will ask you to summarize the high level concepts in each reading and relate them to what we are learning in class. Each reflection should be no more than one - two pages.
+There will be 4 reading reflections with two readings per assignment. Each reading reflection will ask you to summarize the high level concepts in each reading and relate them to what we are learning in class. Each reflection will be available through the website, and turned into gradescope.
 
 ### Planned Readings
 Readings will cover many of the broad topics found within Data Science, both from an academic and industry perspective.
 
-TODO: 
-- R1a: 
-- R1b: 
-- R2a: 
-- R2b: 
-- R3a: 
-- R3b: 
-- R4a: 
-- R4b: 
+- R1a: Embodied cognition is not what you think it is by Wilson & Golonka
+- R1b: Embodied cognition by Foglia & Wilson
+- R2a: Meat Machines - Mindware as Software by Andy Clark
+- R2b: Is the Brain's Mind a Computer Program? by John Searle
+- R3a: Tools for the body (schema) by Maravita & Iriki
+- R3b: Human-Machine Autonomies by Suchman and Weber
+- R4a: Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research by Hollan, Hutchins, & Kirsch
+- R4b: Designing Emergent Behaviors: From Local Intelligence to Collective Intelligence by Mataric
 
 
 
@@ -145,3 +145,4 @@ It’s great that we have many ways to communicate, but it can get tricky to fig
 That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. 
 
 We have created a contact us section on the website. This is a form for you to fill out, which will generate an email template, please use that to reach out to course staff. Thank you!
+**
