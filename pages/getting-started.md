@@ -15,5 +15,6 @@ permalink: /getting started
    -  Gradescope link: **{{ variables.gradescope_link }}**
    -  Entry code: **{{ variables.gradescope_entry_code }}**
    -  When registering for **Gradescope** you must include your **Student ID/PID** and **UCSD Email**.
-3. Make sure you attend the discussion sections during week 2 (no section week 1)
-4. Get ready to have some fun! (too cliche?)
+3. Make sure you attend the discussion sections during week 2 (no section during week 1)
+4. Here's a YouTube link on how to get to class https://youtu.be/FLrMklZEYek (P.S. I definitely needed it)
+5. Get ready to have some fun! (too cliche?)

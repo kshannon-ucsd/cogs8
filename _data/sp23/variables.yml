@@ -23,23 +23,13 @@ teaching_assistants:
     email: vrchelur@ucsd.edu
     type: TA
     office_hours:
-      - day: TBD
-        time: TBD
+      - day: Tue
+        time: 11:00AM - 11:50AM
         location: HSS 1346
-        zoom_link:
+        zoom_link: https://ucsd.zoom.us/j/3037643310
         zoom_pw:
 
-instructional_assistants:
-  - name: TBD
-    email: TBD
-    type: IA
-    office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
-        zoom_link:
-        zoom_pw:
-
+instructional_assistants: 
 
 discussion_sections:
   - section: A01
@@ -48,4 +38,4 @@ discussion_sections:
     location: HSS 1346
     ta: Vineeth
     ia: No IA
-    materials:
+    materials: https://github.com/vchelur97/cogs8-discussion

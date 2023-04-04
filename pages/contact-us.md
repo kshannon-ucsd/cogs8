@@ -49,7 +49,7 @@ Please **do not email staff about waitlist issues**. Please submit your queries 
 <input type="radio" id="assgquiz" name="topic" value="Assg/Quiz">
 <label for="assgquiz">Assignment/Quiz</label> <br/>
 <input type="radio" id="other" name="topic" value="Other">
-<label for="other">Other</label> 
+<label for="other">Other</label>
 <h3> Enter your PID and name </h3>
 <label for="pid"><h4>PID *</h4></label>
 <input type="text" name="pid" value="" required>
