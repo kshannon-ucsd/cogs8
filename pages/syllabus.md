@@ -27,7 +27,7 @@ permalink: /syllabus/
 
 To explore the complex and loopy nature of sensorimotor systems in Cognitive Science. Using python and small microprocessors, we will build robotic systems with sensory systems to complete complex tasks. No prior programming experience is required, this course will teach you basic programming skills, build fundamental computational skills and thinking, as well as introduce you to some fundamental concepts within Cognitive Science, specifically embodied, embedded, and distributed cognition.
 
-Micropython along with the BBC Microbit processor is a perfect platform to quickly get your hands dirty working with actual systems. The skills you develop in this class will provide you with a good bedrock to continue building computation skills. I want to share with all of you my passion for working with data, hacking away with python, and the fascinating world of Cognitive Science!
+MicroPython along with the BBC Microbit processor is a perfect platform to quickly get your hands dirty working with actual systems. The skills you develop in this class will provide you with a good bedrock to continue building computation skills. I want to share with all of you my passion for working with data, hacking away with python, and the fascinating world of Cognitive Science!
 
 ## Grading & Attendance
 
@@ -75,7 +75,7 @@ This class covers a wide range of topics. This is by design and meant to expose 
 - Embodied cognition
 - Distributed cognition
 - Embedded cognition
-- Computationalism
+- Brain in the Vat
 - Microprocessors
 - Sensorimotor systems
 - Data processing

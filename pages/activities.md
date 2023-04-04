@@ -18,7 +18,7 @@ permalink: /activities/
 
 - Project Directions <a href="https://makecode.microbit.org/projects/inchworm" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Activity 2 - General Cognition
+## Activity 2 - Brain in the Vat
 
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
