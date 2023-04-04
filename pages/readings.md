@@ -23,26 +23,30 @@ Make sure to submit your reading reflections through Gradescope! Do not email or
 
 ## Reading 1
 
-- title author <a href="#" target="_blank" rel="noopener">download &#x2197;</a>
-todo
+- R1a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- R1b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+
 
 ## Reading 2
 
-- title author <a href="#" target="_blank" rel="noopener">download &#x2197;</a>
-todo
+- R2a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- R2b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+
 
 ## Reading 3
 
-- title author <a href="#" target="_blank" rel="noopener">download &#x2197;</a>
-todo
+- R3a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- R3b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+
 
 ## Reading 4
 
-- title author <a href="#" target="_blank" rel="noopener">download &#x2197;</a>
-todo
+- R4a <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4a.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- R4b <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4b.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+
 
 
 ## Additional Help
 
-- How to Read an Academic Paper <a href="https://www.kmshannon.com/posts/2018-07-21-reading-research-papers/" target="_blank" rel="noopener">view &#x2197;</a>
+ How to Read an Academic Paper <a href="https://www.kmshannon.com/posts/2018-07-21-reading-research-papers/" target="_blank" rel="noopener">view &#x2197;</a>
   - This is a guide I wrote a number years ago on how to approach reading and digesting academic articles.
