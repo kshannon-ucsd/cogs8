@@ -12,28 +12,28 @@ permalink: /activities/
 
 ### Getting Started (In Class)
 
-- Google Doc <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+- Up and Running with your BBC Microbit <a href="https://microbit.org/get-started/first-steps/introduction/" target="_blank" rel="noopener">view &#x2197;</a>
 
 ### Inch Worm Project (At Home)
 
-- Google Doc <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+- Project Directions <a href="https://makecode.microbit.org/projects/inchworm" target="_blank" rel="noopener">view &#x2197;</a>
 
 ## Activity 2 - General Cognition
 
-- Google Doc <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
 ## Activity 3 - Embedded Cognition
 
-- Google Doc <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
 ## Activity 4 - Embodied Cognition
 
-- Google Doc <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
 ## Activity 5 - Extended Cognition
 
-- Google Doc <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Activity 6 - Final Project in Distributed Cognition
+## Activity Final Project - Distributed Cognition
 
-- Google Doc <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
