@@ -124,9 +124,9 @@ Your team will be working on the final together. We expect all students to, more
 ### Equipment Replacement Policy
 
 All the robotic equipment loaned out to the students for this class are subjected to a replacement policy under the circumstance that they are lost/stolen/misplaced. You will not be penalized for broken or damaged parts as long as you can return the loaned parts back to the instructor or TAs before the end of finals week of the quarter. In the instance that the loaned part cannot be returned in any shape or form, you will be required to pay the following amount to cover the cost of replacing the part. 
-- For a BBC Micro:Bit - $10 - individual covers the cost
-- Pixy Cam and/or Servo attachment - $50 - group splits the cost
-- Smart Robot - $50 - group splits the cost
+- For a BBC Micro:Bit - $10 - individual covers the cost <br> 
+- Pixy Cam and/or Servo attachment - $50 - group splits the cost <br> 
+- Smart Robot - $50 - group splits the cost <br> 
 
 Please understand this is a non-negotiable policy that you are expected to adhere to. So we would advise you take care of the equipment loaned to you. 
 
