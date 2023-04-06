@@ -121,6 +121,15 @@ Your team will be working on the final together. We expect all students to, more
 
 **Group work is never easy** -- Teamwork, while difficult (especially during potentially remote interaction), is one of the most important skills you should learn and practice during college. In order to succeed, communication is critical. You need to be in contact with your group regularly. This will help you keep on top of deliverables and make adjustments if problems should arise. We are always here to help, and make use of our experience working on real engineering/science projects.
 
+### Equipment Replacement Policy
+
+All the robotic equipment loaned out to the students for this class are subjected to a replacement policy under the circumstance that they are lost/stolen/misplaced. You will not be penalized for broken or damaged parts as long as you can return the loaned parts back to the instructor or TAs before the end of finals week of the quarter. In the instance that the loaned part cannot be returned in any shape or form, you will be required to pay the following amount to cover the cost of replacing the part. 
+For a BBC Micro:Bit - $10 - individual covers the cost
+Pixy Cam and/or Servo attachment - $50 - group splits the cost
+Smart Robot - $50 - group splits the cost
+
+Please understand this is a non-negotiable policy that you are expected to adhere to. So we would advise you take care of the equipment loaned to you. 
+
 ### Class/Web Conduct
 
 In all interactions in this class, you are expected to be respectful. This includes following the UC San Diego [principles of the community](https://ucsd.edu/about/principles.html).
