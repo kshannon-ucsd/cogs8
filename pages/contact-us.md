@@ -69,7 +69,7 @@ function mail(form) {
     var emails = [];
     var pid = inputs["pid"].value;
     var name = inputs["name"].value;
-    var subject = "[COGS9]" + "[";
+    var subject = "[COGS8]" + "[";
     for (var i = 0; i < inputs.length; i++) {
         if (inputs[i].type == "checkbox" && inputs[i].checked) {
             emails.push(inputs[i].value);
