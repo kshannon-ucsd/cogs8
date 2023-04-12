@@ -10,6 +10,9 @@ permalink: /activities/
 
 ## Getting Started
 
+{: .note .fs-2 }
+We will cover some of the examples in this introduction to Microbit write up in class. But you should all work through these simple examples at home to get more practice with the Microbit. We will **not be grading** you on this Intro Activity.
+
 ### Up and running with the Microbit
 
 - Up and Running with your BBC Microbit <a href="https://microbit.org/get-started/first-steps/introduction/" target="_blank" rel="noopener">view &#x2197;</a>
@@ -20,7 +23,7 @@ permalink: /activities/
 
 - Project Directions <a href="https://makecode.microbit.org/projects/inchworm" target="_blank" rel="noopener">view &#x2197;</a>
 - Code <a href="https://makecode.microbit.org/_Ha2MkTc7kE7P" target="_blank" rel="noopener">view &#x2197;</a>
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_Ha2MkTc7kE7P" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+
 
 ### Lecture: Inchworm Race
 
