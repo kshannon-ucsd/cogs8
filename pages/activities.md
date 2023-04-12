@@ -8,22 +8,28 @@ permalink: /activities/
 
 # Activities
 
-## Activity 1 - Welcome to Cognitive Science and your BBC Microbit Processor
+## Inchworm Activity
 
 ### Getting Started (In Class)
 
 - Up and Running with your BBC Microbit <a href="https://microbit.org/get-started/first-steps/introduction/" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Activity 2 - Brain Body Cognition
-
-### Milestone 1: Inch Worm Project 
+### Milestone 1: Inchworm Project 
 
 - Project Directions <a href="https://makecode.microbit.org/projects/inchworm" target="_blank" rel="noopener">view &#x2197;</a>
 
-### Milestone 2: Getting Started with your Robot
+### Milestone 2: Inchworm Race
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Activity 3 - Embedded Cognition
+## Embodied Activity
+
+### Milestone 1: Making your robot move
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+
+### Milestone 2: Introducing the Pixy2 cam
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+
+## Embedded Activity
 
 ### Milestone 1:
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
@@ -31,7 +37,7 @@ permalink: /activities/
 ### Milestone 2:
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Activity 4 - Embodied Cognition
+## Extended Activity
 
 ### Milestone 1:
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
@@ -39,7 +45,7 @@ permalink: /activities/
 ### Milestone 2:
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Activity 5 - Extended Cognition
+## Distributed Activity
 
 ### Milestone 1:
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
@@ -50,6 +56,6 @@ permalink: /activities/
 ### Milestone 3:
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Final Project - Distributed Cognition
+## Final Project
 
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
