@@ -32,15 +32,21 @@ We will cover some of the examples in this introduction to Microbit write up in 
 ### Discussion Section: Making your robot move
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-### In Lecture: Introducing the Pixy2 cam
+### In Lecture
+
+#### Introducing the Pixy2 cam (robot visual system)
+- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+
+#### Robot Emotions through vision, love and hate
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
 ## Embedded Activity
 
-### Discussion Section:
+### Discussion Section: Avoiding obstacles with your robot
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
 ### In Lecture:
+#### Robot navigating through love, fear, curiosity, and hate
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
 ## Extended Activity
