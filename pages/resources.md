@@ -10,7 +10,13 @@ permalink: /resources/
 
 # Resources
 
-## Readings
+## Links for PixyCam and Microbit Extensions
+
+- [Microbit - Robot Extension](https://github.com/vchelur97/pxt-k-bit)
+
+- [Micorbit - PixyCam Extension](https://github.com/vchelur97/pxt-pixy2)
+
+## Additional Readings
 
 ## Python
 
