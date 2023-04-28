@@ -13,10 +13,10 @@ instructor:
   type: Instructor
   office_hours:
     - day: Thu
-      time: 12:30PM - 1:30PM
-      location: HSS 1346
-      zoom_link:
-      zoom_pw:
+      time: 5PM - 6PM
+      location: Zoom
+      zoom_link: https://ucsd.zoom.us/j/4288626123?pwd=TWpyQW5nZkpUTWJvU0YzejQyY25Sdz09
+      zoom_pw: 725814
 
 teaching_assistants:
   - name: Vineeth Chelur
