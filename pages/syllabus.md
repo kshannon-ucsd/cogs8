@@ -19,8 +19,6 @@ permalink: /syllabus/
 
 - There is **no** required textbook
 - All course materials are provided through **this website**
-- Reading reflections are submitted through **Gradescope**
-- In-class activities are submitted through **Gradescope**
 - Final group project is submitted through **Gradescope**
 
 ## Course Objective
@@ -35,10 +33,11 @@ MicroPython along with the BBC Microbit processor is a perfect platform to quick
 
 |                                               | % of Total Grade |   100 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 5 Programming Activities                      |               50 |       50 (10 each) |
-| 1 Final Group Project + Report                |               30 |                 30 |
-| 4 Reading Reflections                         |               20 |        20 (5 each) |
-| Bonus                                         |              N/A |        2 bonus pts |
+| 3 Robot Activities                            |               30 |       30 (10 each) |
+| 1 Final Group Project + Presentation + Report |               50 |                 50 |
+| Attendance                                    |               10 |                 10 |
+| Intro Python Activities                       |               10 |                 10 |
+| Bonus                                         |              N/A |        3 bonus pts |
 
 - **Final exam date**: No final exam, only a final group project presentation in week 10 and a report due during finals week.
 - Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that's why we have included 2 bonus points.
@@ -54,15 +53,19 @@ The regrade policy is here to protect students from serious issues in grading, n
 
 ### Lecture Attendance
 
-The purpose of Cogs 8 is to get hands-on with computing. Therefore class discussion section is mandatory and a part of your grade. I know emergencies and personal issues do come up. You will be allowed to miss one class without any penalty. For further logistic issues, you will need to talk 1:1 with me. Due to the dynamic nature of this class, I will not be podcasting, therefore it is essential to make the time and effort to show up to our scheduled classroom activities.
+The purpose of Cogs 8 is to get hands-on with computing. Therefore class discussion section is mandatory after week 1 and a part of your grade. I know emergencies and personal issues do come up. You will be allowed to miss one class without any penalty. For further logistic issues, you will need to talk 1:1 with me. Due to the dynamic nature of this class, I will not be podcasting, therefore it is essential to make the time and effort to show up to our scheduled classroom activities.
+
+The attendance sign-in sheet will only be available for 15 minutes after the start of class. After which you will be unable to sign in. 
 
 ### Section Attendance
 
-Section attendance is mandatory. You will be allowed to miss one discussion section as well. The discussion section is a perfect time to get additional help with programming, learn more about how to use python, or just have extra time to work on your in-class activities.
+Section attendance is mandatory after week 1. You will be allowed to miss one discussion section as well. The discussion section is a perfect time to get additional help with programming, learn more about how to use python, or just have extra time to work on your in-class activities.
+
+The attendance sign-in sheet will only be available for 15 minutes after the start of Discussion Section. After which you will be unable to sign in. 
 
 ### Office Hours
 
-Office Hours will be held in the same classroom, to allow students more time to come in and work on their activities and projects, as well as to interact 1:1 with course staff.
+Office Hours will be held in the same classroom, to allow students more time to come in and work on their activities and projects, as well as to interact 1:1 with course staff. Students will use a sign up sheet for office hours to make sure they recieve the attention the need. 
 
 ## Course Topics, Activities & Readings
 
@@ -85,31 +88,24 @@ This class covers a wide range of topics. This is by design and meant to expose 
 Activities will focus on applying computational skills to build robotic-based agents that will sense and act in the real world. You do not need to have any prior programming experience. We will teach you how to perform basic programming, as well as provide you with a majority of the code you will need to get started with activities. The coding should not be a source of a terrible amount of anxiety. But you might sweat once or twice! :)
 
 - We will walk you through an in-class demo on how to get everything set up to begin working on your robot.
-- Several in-class activities where you will work both, individually and with your team to work with your processor. Most activities will be completed within the class, however, there will be extra time during the discussion section and during office hours to continue working on your Activities. You will be able to do some work at home as well.
-- Each module will have a series of questions and milestones that you will need to reach to get full credit.
+- Several in-class activities where you will work both, individually and with your team. Most activities will be completed within the class, however, there will be extra time during the discussion section and during office hours to continue working on your Activities. You will be able to do some work at home as well.
 
-Remember, this is NOT a programming class. We will use programming to learn about cognitive science. But the goal is to not overload you with programming to get a good grade.
+Remember, this is NOT a programming class. We will use programming to learn about cognitive science. But the goal is to not overload you with complex programming tasks; however, you are at UCSD and we have an expectation of what students will be capable of doing.
 
 ### Final Group Project
 
-Your final group project will involve working with your classmates in a group of 3-5 students. You will have 2-3 weeks to work on your project, which will perform some complex activity in the real world, in a distributed manner, with other robots. You will demonstrate your robot to the class in the final class meeting. There will be a final group report due during finals week. You will discuss what you learned, and relate your invention to the readings you have finished. This report should be about 3-6 pages.
-
-### Reading Reflections
-
-There will be 4 reading reflections with two readings per assignment. Each reading reflection will ask you to summarize the high-level concepts in each reading and relate them to what we are learning in class. Each reflection will be available through the website and turned into Gradescope.
+Your final group project will involve working with your classmates in a group of 7-9 students. You will have 2-3 weeks to work on your project, which will perform some complex activity in the real world, in a distributed manner, with other robots. You will demonstrate your robot to the class in the final class meeting, as well as give a presentation on your distruvted activity. There will be a final group report due during finals week. You will discuss what you learned, and relate your invention to the readings you have finished. This report should be about 6-7 pages.
 
 ### Planned Readings
 
-Readings will cover many of the broad topics found within Data Science, both from an academic and industry perspective.
+Readings will cover many of the broad topics found within Cognitive Science & Robotics.
 
-- R1a: Embodied cognition is not what you think it is by Wilson & Golonka
-- R1b: Embodied cognition by Foglia & Wilson
-- R2a: Meat Machines - Mindware as Software by Andy Clark
-- R2b: Is the Brain's Mind a Computer Program? by John Searle
-- R3a: Tools for the body (schema) by Maravita & Iriki
-- R3b: Human-Machine Autonomies by Suchman and Weber
-- R4a: Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research by Hollan, Hutchins, & Kirsch
-- R4b: Designing Emergent Behaviors: From Local Intelligence to Collective Intelligence by Mataric
+- R1: Meat Machines - Mindware as Software by Andy Clark
+- R2: Is the Brain's Mind a Computer Program? by John Searle
+- R3: Embodied cognition by Foglia & Wilson
+- R4: Tools for the body (schema) by Maravita & Iriki
+- R5: Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research by Hollan, Hutchins, & Kirsch
+- R6: Designing Emergent Behaviors: From Local Intelligence to Collective Intelligence by Mataric
 
 ## Other Good Stuff
 
@@ -149,6 +145,8 @@ You are encouraged to (and at times will have to) work together and help one ano
 We anticipate you all doing well in this course; however, if you are feeling lost or overwhelmed, that's ok! Should that occur, we recommend: (i.) asking questions in/after class, (ii.) attending office hours, and/or (iii.) reaching out to course staff.
 
 Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, this website, or Gradescope is down, or something else prohibits you from being able to turn in an assignment on time, immediately contact course staff via email (attach your assignment/quiz/exam answers) or else it will be graded as late.
+
+ChatGPT and other AI assisted products are becoming more commonplace in student's lives. I take the stance that most students will invariably use these tools, despite any sort of policy. Furthermore enforcing such a policy is overly burdensome. In class we will discuss the appropirate use of ChatGPT, and our expectations if you choose to use it to help you with your work. 
 
 ### Disability​ ​Access
 

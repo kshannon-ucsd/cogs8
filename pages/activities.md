@@ -13,58 +13,44 @@ permalink: /activities/
 {: .note .fs-2 }
 We will cover some of the examples in this introduction to Microbit write up in class. But you should all work through these simple examples at home to get more practice with the Microbit. We will **not be grading** you on this "Getting Started" Activity.
 
-### Up and running with the Microbit
+## Hands-on Python & the BBC Microbit (10% of your grade)
 
+### Intro Python
+- TBD 
+
+### Intermediate Python
+- TBD 
+
+### BBC Microbit
 - Up and Running with your BBC Microbit <a href="https://microbit.org/get-started/first-steps/introduction/" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Inchworm Activity
+### Embedded Python
+- TBD 
 
-### Discussion Section: Inchworm Project
+## Inchworm Activity (10% of your grade)
+### Inchworm Project
 
 - Project Directions <a href="https://makecode.microbit.org/projects/inchworm" target="_blank" rel="noopener">view &#x2197;</a>
 - Code <a href="https://makecode.microbit.org/_Ha2MkTc7kE7P" target="_blank" rel="noopener">view &#x2197;</a>
 
+### Inchworm Race
 
-### In Lecture: Inchworm Race
 
-## Embodied Activity
+## Embodied Activity (10% of your grade)
+### Todo:
+- TBD 
 
-### Discussion Section: Making your robot move
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-### In Lecture
-
-#### Introducing the Pixy2 cam (robot visual system)
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
-
-#### Robot Emotions through vision, love and hate
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
-
-## Embedded Activity
-
-### Discussion Section: Avoiding obstacles with your robot
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
-
-### In Lecture:
-#### Robot navigating through love, fear, curiosity, and hate
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
-
-## Extended Activity
-
-### Discussion Section:
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
-
-### In Lecture:
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+## Extended Activity (10% of your grade)
+### Todo:
+- TBD 
 
 ## Distributed Activity
-
-### Discussion Section:
+### Final Project Demo (20% of your grade)
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-### In Lecture:
+### Final Project Presentation (10% of your grade)
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
 
-## Final Project
-
+### Final Project Paper (10% of your grade)
 - TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>

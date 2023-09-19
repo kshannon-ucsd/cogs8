@@ -10,41 +10,29 @@ permalink: /readings/
 
 Readings come from a wide range of topics, papers, and articles to reflect the diverse nature of Cognitive Science, Robotics, and Computational Sciences. Some of these readings are critical ideas and papers that you will encounter again if you take additional Cognitive Science courses. These readings are fun and will hopefully introduce you to ideas and ways of thinking about 'the mind' that you have never encountered before. So strap up and prepare for a fun time! 
 
-## Instructions
-Each reading assignment will be coupled with a Reading Reflection. Use the link below to open the template and under `file` click `make a copy` to make a copy of the template for yourself in your drive. You will not be able to edit my template. Use the same template for each of the 4 reading reflections. Make sure to follow the instruction in the template and submit your reflection to Gradescope by the due date. 
-
-<a href="https://docs.google.com/document/d/1mEKo2E7-SWvIpQ-G7tBJWOm_RDY5s9Q5vyCBZqPAD80/edit?usp=sharing" target="_blank" rel="noopener">**Reading Reflections Template**</a>
-
 
 {: .note .fs-2 }
-Make sure to submit your reading reflections through Gradescope! Do not email or bring a paper copy to class. If you have trouble submitting reach out to course staff on discord.
+There is no due date for readings, rather you will be expected to include ideas and discuss topics from the readings in your final paper and final class presentation. We have made suggestions in the course calendar for when we think you should begin a reading.
 
 
 
-## Reading 1
+## Reading 1 - Philosophy and Cognition
+<a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2a.pdf" target="_blank" rel="noopener">Andy Clark - Meat Machines &#x2197;</a>
 
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1a.pdf" target="_blank" rel="noopener">Embodied cognition is not what you think it is &#x2197;</a>
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1b.pdf" target="_blank" rel="noopener">Embodied cognition &#x2197;</a>
+## Reading 2 - Computational Theory of Mind and Embodied Cognition
+<a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2b.pdf" target="_blank" rel="noopener">Searle - Is the Brain's Mind a Computer Program? &#x2197;</a>
 
+## Reading 3 - Embodied Cognition
+<a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R1b.pdf" target="_blank" rel="noopener">Foglia - Embodied Cognition &#x2197;</a>
 
-## Reading 2
+## Reading 4 - Extended Cognition
+<a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3a.pdf" target="_blank" rel="noopener">Maravita -  Tools for the body (schema) &#x2197;</a>
 
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2a.pdf" target="_blank" rel="noopener">Meat Machines &#x2197;</a>
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2b.pdf" target="_blank" rel="noopener">Is the Brain's Mind a Computer Program? &#x2197;</a>
+## Reading 5 - Distributed Cognition
+<a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4a.pdf" target="_blank" rel="noopener">Hutchins, Kirsh, Hollan - Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research &#x2197;</a>
 
-
-## Reading 3
-
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3a.pdf" target="_blank" rel="noopener">Tools for the body (schema) &#x2197;</a>
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R3b.pdf" target="_blank" rel="noopener">Human-Machine Autonomies &#x2197;</a>
-
-
-## Reading 4
-
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4a.pdf" target="_blank" rel="noopener">Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research &#x2197;</a>
-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4b.pdf" target="_blank" rel="noopener">Designing Emergent Behaviors: From Local Interactions to Collective Intelligence &#x2197;</a>
-
-
+## Reading 6 - Distributed Cognition
+<a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R4b.pdf" target="_blank" rel="noopener">Mataric - Designing Emergent Behaviors: From Local Interactions to Collective Intelligence &#x2197;</a>
 
 ## Additional Help
 
