@@ -18,7 +18,7 @@ permalink: /syllabus/
 ## Course Materials
 
 - There is **no** required textbook
-- All course materials are provided through **this website**
+- All course materials are provided through **this website** and in-class
 - Final group project is submitted through **Gradescope**
 
 ## Course Objective
@@ -39,8 +39,8 @@ MicroPython along with the BBC Microbit processor is a perfect platform to quick
 | Intro Python Activities                       |               10 |                 10 |
 | Bonus                                         |              N/A |        3 bonus pts |
 
-- **Final exam date**: No final exam, only a final group project presentation in week 10 and a report due during finals week.
-- Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that's why we have included 2 bonus points.
+- **Final exam date**: No final exam, only a final group project presentation/demo in week 10 and a report due during finals week.
+- Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that's why we have included bonus points.
 
 ### Regrade Policy
 
@@ -53,19 +53,19 @@ The regrade policy is here to protect students from serious issues in grading, n
 
 ### Lecture Attendance
 
-The purpose of Cogs 8 is to get hands-on with computing. Therefore class discussion section is mandatory after week 1 and a part of your grade. I know emergencies and personal issues do come up. You will be allowed to miss one class without any penalty. For further logistic issues, you will need to talk 1:1 with me. Due to the dynamic nature of this class, I will not be podcasting, therefore it is essential to make the time and effort to show up to our scheduled classroom activities.
+The purpose of Cogs 8 is to get **hands-on** with computing. Therefore class lecture is mandatory after week 1 and a part of your grade. I know emergencies and personal issues do come up. You will be allowed to miss one class without any penalty. For further logistic issues, you will need to talk 1:1 with me or our TA. Due to the dynamic nature of this class, I will not be podcasting, therefore it is essential to make the time and effort to show up to our scheduled classroom activities.
 
-The attendance sign-in sheet will only be available for 15 minutes after the start of class. After which you will be unable to sign in. 
+**The attendance sign-in sheet will only be available for 15 minutes after the start of class. After which you will be unable to sign in.**
 
 ### Section Attendance
 
-Section attendance is mandatory after week 1. You will be allowed to miss one discussion section as well. The discussion section is a perfect time to get additional help with programming, learn more about how to use python, or just have extra time to work on your in-class activities.
+Section attendance is mandatory after week 1 as well. You will also be allowed to miss one discussion section. The discussion section is a perfect time to get additional help with programming, learn more about how to use python, or just have extra time to work on your in-class activities.
 
-The attendance sign-in sheet will only be available for 15 minutes after the start of Discussion Section. After which you will be unable to sign in. 
+The attendance sign-in sheet will only be available for 5 minutes after the start of Discussion Section. After which you will be unable to sign in. 
 
 ### Office Hours
 
-Office Hours will be held in the same classroom, to allow students more time to come in and work on their activities and projects, as well as to interact 1:1 with course staff. Students will use a sign up sheet for office hours to make sure they recieve the attention the need. 
+Office Hours will be held in the same classroom (except for Kyle's OH, which will be in his office), to allow students more time to come in and work on their activities and projects, as well as to interact 1:1 with course staff. Students will use a sign up sheet for office hours to make sure they recieve the attention the need. 
 
 ## Course Topics, Activities & Readings
 
@@ -90,11 +90,12 @@ Activities will focus on applying computational skills to build robotic-based ag
 - We will walk you through an in-class demo on how to get everything set up to begin working on your robot.
 - Several in-class activities where you will work both, individually and with your team. Most activities will be completed within the class, however, there will be extra time during the discussion section and during office hours to continue working on your Activities. You will be able to do some work at home as well.
 
-Remember, this is NOT a programming class. We will use programming to learn about cognitive science. But the goal is to not overload you with complex programming tasks; however, you are at UCSD and we have an expectation of what students will be capable of doing.
+Remember, this is NOT a programming class. We will use programming to learn about cognitive science. But the goal is to not overload you with complex programming tasks; however, you are at UCSD and we have an expectation of what students are capable of, so you will learn how to program in this class. It is just not the main focus :)
+
 
 ### Final Group Project
 
-Your final group project will involve working with your classmates in a group of 7-9 students. You will have 2-3 weeks to work on your project, which will perform some complex activity in the real world, in a distributed manner, with other robots. You will demonstrate your robot to the class in the final class meeting, as well as give a presentation on your distruvted activity. There will be a final group report due during finals week. You will discuss what you learned, and relate your invention to the readings you have finished. This report should be about 6-7 pages.
+Your final group project will involve working with your classmates in a group of 8-12 students. You will have 2-3 weeks to work on your project, which will perform some complex activity in the real world, in a distributed manner, with other robots. Your group will demonstrate your robots interactivity and cognitive skills, or lack thereof, to the class in our final class meeting, as well as give a presentation on your distributed activity. There will be a final group report due during finals week. You will discuss what you learned, and relate your distributed robot task to the readings you have finished. This report should be about 6-7 pages.
 
 ### Planned Readings
 
