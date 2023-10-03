@@ -1,9 +1,11 @@
 date,title,label,link
 2023-09-28,Discord Meet & Greet (optional),DISC,
-2023-10-03,Intro Lecture + Hands-on Python,CLSS,
-2023-10-05,Hands-on Python Cont.,DISC
-2023-10-10,Intermediate Python,CLSS,
-2023-10-12,Intermediate Python Cont.,DISC,
+2023-10-03,Intro Lecture,CLSS,https://s3.us-west-2.amazonaws.com/ucsd.cogs8/lectures/week+1+-+Welcome%2C+Intro+Python.pdf
+2023-10-03,Hands-on Python 1,DEMO,https://colab.research.google.com/drive/1GN81uFLCpbbpz6Li5fioxAHj-WhMb2d5?usp=sharing
+2023-10-05,Hands-on Python 1 Cont.,DISC,
+2023-10-10,Hands-on Python 2,CLSS,
+2023-10-10,Hands-on Python 2,DEMO,
+2023-10-12,Hands-on Python 2 Cont.,DISC,
 2023-10-17,Embedded Python + BBC Microbits,CLSS,
 2023-10-17,Reading 1,READ,
 2023-10-19,Embedded Python Cont. + Reading 1,DISC,
