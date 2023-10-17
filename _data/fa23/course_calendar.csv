@@ -6,11 +6,12 @@ date,title,label,link
 2023-10-10,Hands-on Python 2,CLSS,
 2023-10-10,Hands-on Python 2,DEMO,
 2023-10-12,Hands-on Python 2 Cont.,DISC,
-2023-10-17,Embedded Python + BBC Microbits,CLSS,
-2023-10-17,Reading 1,READ,
+2023-10-17,Embedded Python + BBC Microbits,CLSS,https://s3.us-west-2.amazonaws.com/ucsd.cogs8/lectures/week+3+-+Embedded+Python%2C+BBC+Microbits.pdf
+2023-10-17,Embedded Python + BBC Microbits,DEMO,https://microbit.org/projects/make-it-code-it/
+2023-10-17,Reading 1,READ,https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2a.pdf
 2023-10-19,Embedded Python Cont. + Reading 1,DISC,
 2023-10-24,The Inch Worm + CTM,CLSS,
-2023-10-24,Reading 2,READ,
+2023-10-24,Reading 2,READ,https://s3.us-west-2.amazonaws.com/ucsd.cogs8/readings/R2b.pdf
 2023-10-26,Inch Worm Project Cont.,DISC,
 2023-10-31,Embodied Cognition,CLSS,
 2023-10-31,Reading 3,READ,
