@@ -64,3 +64,11 @@ Up and Running with your BBC Microbit <a href="https://microbit.org/get-started/
 ### Final Project Activity and paper instructions & rubric
 - Click here to download <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/lectures/Final_Project_Rubric.pdf" target="_blank" rel="noopener">view &#x2197;</a>
 
+#### Examples of good reports
+- Example of highlighting your name and the text you were responsible for. THis is mandatory for all groups to do! <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Final_Report_highlightedText.pdf" target="_blank" rel="noopener">view &#x2197;</a>
+
+- Example of good quality formatting. THis is mandatory for all groups to do! <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Mikurubeam_Final_Written_Report.pdf" target="_blank" rel="noopener">view &#x2197;</a>
+
+- Example of good use of photos. THis is mandatory for all groups to do! <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Flocking_Final_Report.pdf" target="_blank" rel="noopener">view &#x2197;</a>
+
+
