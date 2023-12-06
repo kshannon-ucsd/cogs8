@@ -59,24 +59,8 @@ Up and Running with your BBC Microbit <a href="https://microbit.org/get-started/
 - Project Directions <a href="https://makecode.microbit.org/projects/inchworm" target="_blank" rel="noopener">view &#x2197;</a>
 - Code <a href="https://makecode.microbit.org/_Ha2MkTc7kE7P" target="_blank" rel="noopener">view &#x2197;</a>
 
-### Inchworm Race
-
-
-## Embodied Activity (10% of your grade)
-### Todo:
-- TBD 
-
-
-## Extended Activity (10% of your grade)
-### Todo:
-- TBD 
 
 ## Distributed Activity
-### Final Project Demo (20% of your grade)
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
+### Final Project Activity and paper instructions & rubric
+- Click here to download <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/lectures/Final_Project_Rubric.pdf" target="_blank" rel="noopener">view &#x2197;</a>
 
-### Final Project Presentation (10% of your grade)
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
-
-### Final Project Paper (10% of your grade)
-- TBD <a href="#" target="_blank" rel="noopener">view &#x2197;</a>
