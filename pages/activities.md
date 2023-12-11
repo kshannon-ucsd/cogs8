@@ -65,10 +65,15 @@ Up and Running with your BBC Microbit <a href="https://microbit.org/get-started/
 - Click here to download <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/lectures/Final_Project_Rubric.pdf" target="_blank" rel="noopener">view &#x2197;</a>
 
 #### Examples of good reports
-- Example of highlighting your name and the text you were responsible for. THis is mandatory for all groups to do! <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Final_Report_highlightedText.pdf" target="_blank" rel="noopener">view &#x2197;</a>
+- Example of highlighting your name and the text you were responsible for. This is mandatory for all groups to do! <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Final_Report_highlightedText.pdf" target="_blank" rel="noopener">view &#x2197;</a>
 
-- Example of good quality formatting. THis is mandatory for all groups to do! <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Mikurubeam_Final_Written_Report.pdf" target="_blank" rel="noopener">view &#x2197;</a>
+- Example of good quality formatting <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Mikurubeam_Final_Written_Report.pdf" target="_blank" rel="noopener">view &#x2197;</a>
 
-- Example of good use of photos. THis is mandatory for all groups to do! <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Flocking_Final_Report.pdf" target="_blank" rel="noopener">view &#x2197;</a>
+- Example of good use of photos <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs8/Flocking_Final_Report.pdf" target="_blank" rel="noopener">view &#x2197;</a>
+
+## Final Course Survey and Team Eval
+Please ensure these are turned in around the time you submit your team essay. These will be due by Friday of Finals week.
+- [Course Survey](https://forms.gle/UQyGQi52cDGYpRCE7)
+- [Team Eval](https://forms.gle/cfUmshw8bt6pbrJbA)
 
 
