@@ -18,12 +18,12 @@ Class Website for UCSD's COGS 8 Hands on Computing
 ### Building for Local
 All dev builds will be built into a `dev-docs/` dir. This dir is included in `.gitignore` and is only used for development builds. Any specific dev config should bd included in the `_config_dev.yml` file. Your absolute path to `dev-docs` will be different.
 1. `bundle exec jekyll serve --config _config.yml,_config_dev.yml --destination ./dev-docs` #builds and starts local server on localhost
-2. navigate to http://localhost:4000/ucsd-cogs8/
+2. navigate to http://localhost:4000/ucsd-cogs8-website/
 
 ### Building for Prod
 1. A merge or direct push to main branch will automatically trigger the jekyll workflow which will build and deploy the main branch to production.
 2. Check status in github actions for build results.
-3. Navigate to https://kshannon.github.io/ucsd-cogs8/
+3. Navigate to https://kshannon.github.io/ucsd-cogs8-website/
 
 ### /data/ directory
 This dir is excluded from the jekyll build chain (excluded in the config.yaml file).
