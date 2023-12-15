@@ -1,6 +1,6 @@
 [![Deploy Jekyll site to Pages](https://github.com/kshannon/ucsd-cogs8/actions/workflows/jekyll.yml/badge.svg)](https://github.com/kshannon/ucsd-cogs8/actions/workflows/jekyll.yml)
 
-# ucsd-cogs8
+# ucsd-cogs8-website
 Class Website for UCSD's COGS 8 Hands on Computing
 
 
