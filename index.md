@@ -36,6 +36,9 @@ nav_order: 1
 
 We are all very excited that you decided to join us in this introduction to computing, robotics, data, and cognitive science. All relevant info, e.g. due dates, assignment links, etc. are found on this website.
 We look forward to teaching and working with all of you and hope to meet you during office hours. Check out the getting started section so you can hit the ground running when class starts!
+
+Join the class Discord: **{{ variables.discord_link }}**
+
 {: .fs-3 }
 
 {: .note .fs-2 }

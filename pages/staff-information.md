@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Staff Information
+title: COGS 8 Staff
 has_children: false
-nav_order: 9
+nav_order: 3
 permalink: /staff-info/
 ---
 
@@ -11,7 +11,7 @@ permalink: /staff-info/
 
 # Staff Information
 
-## Contact Info
+## Current Staff
 
 **Instructor** <br/> {{ variables.instructor.name }} - [{{ variables.instructor.email }}](mailto:{{ variables.instructor.email }})
 
@@ -20,11 +20,9 @@ permalink: /staff-info/
 
 **Instructional Assistants (IAs)**
 {% for ia in variables.instructional_assistants %} <br/> {{ ia.name }} - [{{ ia.email }}](mailto:{{ ia.email }}) {% endfor %}
-<!-- {: .fs-3 } -->
+
 
 ## Office Hours & Zoom Info
-
-Office hours are a great place to personally interact. Beyond projects and course material, we are interested in your goals, career endeavors, and what you want to gain from COGS 8. 
 
 <table style="table-layout: fixed; text-align: center; width: 100%;">
     <thead>
@@ -71,5 +69,14 @@ Office hours are a great place to personally interact. Beyond projects and cours
     </tbody>
 </table>
 
-{: .note .fs-3 }
-If you are unable to join or are having other issues, please reach out after class (I tend to do impromptu office hours after each class if I have time). Additionally, we are more than happy, to set up additional 1:1 or 1:group meetings when necessary.
+<!-- TODO: add this functionality -->
+
+<!-- ## Past Staff
+
+**Instructor** <br/> {{ variables.instructor.name }} - [{{ variables.instructor.email }}](mailto:{{ variables.instructor.email }})
+
+**Teaching Assistants (TAs)**
+{% for ta in variables.teaching_assistants %} <br/> {{ ta.name }} - [{{ ta.email }}](mailto:{{ ta.email }}) {% endfor %}
+
+**Instructional Assistants (IAs)**
+{% for ia in variables.instructional_assistants %} <br/> {{ ia.name }} - [{{ ia.email }}](mailto:{{ ia.email }}) {% endfor %} -->

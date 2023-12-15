@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Resources
+title: Student Guides
 has_children: false
-nav_order: 101
-permalink: /resources/
+nav_order: 2
+permalink: /student-guides/
 ---
 
 {% assign variables = site.data[site.data_folder].variables %}
 
-# Resources
+# Student Guides
 
 ## BBC Micro:bit
 - [MakeCode editor](https://makecode.microbit.org/)
