@@ -9,6 +9,10 @@ permalink: /syllabus/
 
 <h1>Syllabus</h1>
 
+
+{: .note .fs-2 }
+Week one I try to take as many students from the **waitlist** as I can, please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
+
 ## Course Materials
 
 - There is **no** required textbook

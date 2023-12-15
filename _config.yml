@@ -25,8 +25,7 @@ title: COGS 8
 email: kshannon@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a course website for UCSD COGS 8: Hands on Computing
-# domain: ucsd-cogs9.github.io
-url: https://kshannon.github.io
+url: https://kshannon-ucsd.github.io
 baseurl: /ucsd-cogs8
 
 ###### Build settings
@@ -70,7 +69,7 @@ aux_links:
 aux_links_new_tab: true
 
 # Change this to choose where to pick data from
-data_folder: fa23
+data_folder: wi24
 
 # Config JTD UI elements here
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
