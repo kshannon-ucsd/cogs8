@@ -26,7 +26,7 @@ email: kshannon@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a course website for UCSD COGS 8: Hands on Computing
 url: https://kshannon-ucsd.github.io
-baseurl: /ucsd-cogs8
+baseurl: /cogs8
 
 ###### Build settings
 # remote_theme:
