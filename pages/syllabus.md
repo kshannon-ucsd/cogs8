@@ -26,7 +26,9 @@ To explore the complex and loopy nature of sensorimotor systems in Cognitive Sci
 
 | Component                           | % of Total Grade | 200 Total Points |
 |:------------------------------------|:----------------:|:----------------:|
-| Attendance                          |               15 |              30  |
+| Attendance                          |               10 |              20  |
+| Python Notebook 1                   |                5 |              10  |
+| Python Notebook 2                   |                5 |              10  |
 | Quizzes (7 quizzes)                 |               21 |              42  |
 | Surveys (4 surveys)                 |                4 |               8  |
 | Project - Inch Worm                 |                5 |              10  |
