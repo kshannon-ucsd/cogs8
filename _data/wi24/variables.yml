@@ -17,12 +17,12 @@ instructor:
       location: CSB 255
 
 teaching_assistants:
-  - name: Akshay Nagarajan
-    email: 	anagaraj@ucsd.edu
+  - name: Yoonwon Jung
+    email: 	y5jung@ucsd.edu
     type: TA
     office_hours:
-      - day: Tue
-        time: 10:50AM
+      - day: TH
+        time: 11:00AM
         location: HSS 1346
 
 instructional_assistants: 
@@ -39,6 +39,6 @@ discussion_sections:
     day: Thur
     time: 10:00AM - 10:50AM
     location: HSS 1346
-    ta: Akshay
+    ta: Yoonwon
     ia: Jiesen
     materials: TBD
